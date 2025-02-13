@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🚀 Bem-vindo ao meu repositório!
 
-<!--
-**Eduardo-Barros08/Eduardo-Barros08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Sou o Eduardo, um desenvolvedor backend apaixonado por criar soluções eficientes e escaláveis. Aqui você encontrará projetos que envolvem **API REST, bancos de dados, arquitetura de software, algoritmos e muito mais!**
 
-Here are some ideas to get you started:
+- - - - 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Barros08&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Barros08&layout=compact)
+
+- - - -
+
+## 📫 Contato  
+Se quiser trocar uma ideia sobre desenvolvimento backend ou colaborar em algum projeto, me encontre em:  
+- 💼 [LinkedIn](www.linkedin.com/in/eduardo-barros-da-silva-cpa-2o®-50090b288)  
+- 📧 Email: edubarsilva29@gmail.com
+- - - - 
+
+## 🛠 Tecnologias e Ferramentas  
+
+### 🔹 Linguagens  
+- Java  
+- C  
+- C++  
