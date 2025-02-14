@@ -12,7 +12,7 @@
 
 ## 📫 Contato  
 Se quiser trocar uma ideia sobre desenvolvimento backend ou colaborar em algum projeto, me encontre em:  
-- 💼 [LinkedIn](www.linkedin.com/in/eduardo-barros-da-silva-cpa-2o®-50090b288)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-barros-da-silva-cpa-2o®-50090b288)  
 - 📧 Email: edubarsilva29@gmail.com
 - - - - 
 
