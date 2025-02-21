@@ -1,7 +1,6 @@
 # 🚀 Bem-vindo ao meu repositório!
 
-👋 Olá! Sou o Eduardo, um desenvolvedor backend apaixonado por criar soluções eficientes e escaláveis. Aqui você encontrará projetos que envolvem **API REST, bancos de dados, arquitetura de software, algoritmos e muito mais!**
-
+👋 Olá! Sou o Eduardo, um desenvolvedor backend apaixonado por criar soluções eficientes e escaláveis. Aqui você encontrará meus projetos.
 - - - - 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Barros08&show_icons=true&theme=tokyonight)
